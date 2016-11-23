@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="title_hint">Title…</string>
+    <string name="text_hint">Text…</string>
+    <string
+        formatted="false"
+        name="sharing_template">Title: %s\nText: %s</string>
+    <string name="save">Save</string>
+    <string name="do_you_sure_alert_title">Attention!!!</string>
+    <string name="do_yout_sure_alert_do_you_want_to_save_change">Do you want to save change?</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+</resources>
